@@ -1,5 +1,9 @@
 # 👋 Hi there, I'm Diptimayee Patra!
 
+Coding Enthusiast | Passionate Learner
+I am an enthusiastic and passionate learner currently pursuing a degree in CSE with specialisation in AI ML at Institute of Engineering and Management, Newtown.
+My commitment to learning has enabled me to consistently achieve top grades. As an active member of SPIE OPTICA STUDENT CHAPTER , I seek out opportunities to expand my knowledge and connect with fellow enthusiasts.
+
 ## 🧠 About Me
 - Passionate about Machine Learning
   
