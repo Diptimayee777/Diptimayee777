@@ -1,23 +1,24 @@
-# 👋 Hi there, I'm Ayan Dasgupta!
+# 👋 Hi there, I'm Diptimayee Patra!
 
 ## 🧠 About Me
-- Passionate about Machine Learning & Data Science
+- Passionate about Machine Learning
+  
 - Fluent in:
   - 🐍 Python
-  - 🌐 C, C++
+  - 🌐 C
   - 💻 JavaScript
+    
 - SQL Enthusiast:
   - 🗃️ MySQL
-  - 📦 MongoDB
+    
 - Web Development Enthusiast
 
 ## 🛠️ Tech Stacks
 - 📊 scikit-learn
-- 🤖 TensorFlow
-- 🌐 Flask, Django
-- ⚙️ Keras, PyTorch
+- 🌐 Flask
 - 🌍 Node.js, React
-- 🛠️ Git
+- 🎨 Figma
+- 📮 Postman API
 
 ## 📫 Contact Me
-- Email: adasgupta2004@gmail.com
+- Email: diptimayeepatra07@gmail.com
